@@ -5,6 +5,5 @@
 <h2 align="center">GitHub Stats :bar_chart:</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wolk4n&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolk4n&layout=compact&theme=tokyonight" height="180">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolk4n&layout=compact&theme=tokyonight" width="450" height="180"> 
 </p>
