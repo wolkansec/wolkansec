@@ -1,4 +1,3 @@
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wolk4n&color=green" alt="wolk4n :: Profile Stats"></a>
 </p>
