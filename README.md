@@ -1,4 +1,4 @@
-<h3 align="center">Connect with me:</h3>
+<!-- <h3 align="center">Connect with me:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=wolk4n&color=green" alt="wolk4n :: Profile Stats"></a>
 <a href="mailto:volkanzdmr01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-volkanzdmr01@gmail.com-blue?style=flat&logo=gmail"></a>
@@ -14,3 +14,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolk4n&layout=compact&theme=tokyonight" height="180">
   
 </p>
+-->
