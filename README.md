@@ -4,5 +4,8 @@
 
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-  asfafasfsafsafsafaf
+  Merhaba,
+Uzun zamandır siber güvenlik ve yazılım alanlarıyla ilgileniyorum. Bir çok siber güvenlik platformunda projeler geliştirdim ve bir çok ekibin içerisinde yer aldım. Son yıllarda siber güvenlik alanında kendimi geliştiriyorum. Bu süre zarfında edindiğim bilgileri ve tecrübelerimi bu alanlarda kendini geliştirmek isteyen meraklı bireylere aktarmak ve sizlere fayda sağlamak istiyorum. Bir şeyler öğretebildiysem ne mutlu bana...
+
+  NOT: Kodlanan bütün içerikler eğitim amaçlıdır. Aksi takdirde kullanılması toplumsal ve hukuki sorumluluk doğurabilir. Olası her durumda mesuliyet ilgili kişiye aittir❗️❗️❗️
 </p>
