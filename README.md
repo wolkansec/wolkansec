@@ -1,11 +1,41 @@
-<h3 align="center">Languages:</h3>
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img src="https://distro.ibiblio.org/unity-linux/fancy-index/icons/php.svg" alt="php" width="40" height="40"/> </a> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/768px-Bash_Logo_Colored.svg.png" alt="bash" width="40" height="40"/></p>
+### Selam, Ben [Volkan](https://www.linkedin.com/in/wolkann/) 👋
+
+Lise son sınıf öğrencisiyim. Alanım [Ağ İşletmenliği ve Siber Güvenlik](https://mehmettugrultekbulutmtal.meb.k12.tr/). Bunun dışında yazılım ile de ilgilenmekteyim.
+
+**İlgi Alanlarım**:
+- CTF Çözümleri
+- Front-End Geliştiriciliği
+- Makale Yazmak
+
+## Yetenekler:
+
+#### Diller:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
+#### Veritabanı
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  Merhaba,
-Uzun zamandır siber güvenlik ve yazılım alanlarıyla ilgileniyorum. Bir çok siber güvenlik platformunda projeler geliştirdim ve bir çok ekibin içerisinde yer aldım. Son yıllarda siber güvenlik alanında kendimi geliştiriyorum. Bu süre zarfında edindiğim bilgileri ve tecrübelerimi bu alanlarda kendini geliştirmek isteyen meraklı bireylere aktarmak ve sizlere fayda sağlamak istiyorum. Bir şeyler öğretebildiysem ne mutlu bana...
+#### IDEs
 
-  NOT: Kodlanan bütün içerikler eğitim amaçlıdır. Aksi takdirde kullanılması toplumsal ve hukuki sorumluluk doğurabilir. Olası her durumda mesuliyet ilgili kişiye aittir❗️❗️❗️
+![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important])
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+
+## İletişim:
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/@wolkann)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/w0lk4nn) 
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://linkedin.com/in/wolkann)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@wolkann)
 </p>
