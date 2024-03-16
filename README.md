@@ -34,6 +34,5 @@ Lise son sınıf öğrencisiyim. Alanım [Ağ İşletmenliği ve Siber Güvenlik
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=black" />](https://www.youtube.com/@wolkann)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://linkedin.com/in/wolkann)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=global&logoColor=white&color=black" />]([https://dijital.link/wolkan])
 </p>
