@@ -4,7 +4,7 @@ Lise son sınıf öğrencisiyim. Alanım [Ağ İşletmenliği ve Siber Güvenlik
 
 **İlgi Alanlarım**:
 - CTF Çözümleri
-- Front-End Geliştiriciliği
+- Web Geliştiriciliği
 - Güvenlik Araştırmaları
 
 ## Yetenekler:
