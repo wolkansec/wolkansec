@@ -1,11 +1,11 @@
 ### Selam, Ben [Volkan](https://www.linkedin.com/in/wolkann/) 👋
 
-Lise son sınıf öğrencisiyim. Alanım [Ağ İşletmenliği ve Siber Güvenlik](https://mehmettugrultekbulutmtal.meb.k12.tr/). Bunun dışında yazılım ile de ilgilenmekteyim.
+Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda Siber Güvenlik öğrencisiyim. Aynı zamanda youtube (wolkann) üzerinden siber güvenlik içerikleri yayınlıyorum.
 
 **İlgi Alanlarım**:
-- CTF Çözümleri
-- Web Geliştiriciliği
-- Güvenlik Araştırmaları
+- Pentesting
+- Web Geliştiriciliği/Güvenliği
+- SOC Analyst
 
 ## Yetenekler:
 
