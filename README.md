@@ -1,6 +1,6 @@
 ### Selam, Ben [Volkan](https://www.linkedin.com/in/wolkann/) 👋
 
-Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda Siber Güvenlik öğrencisiyim. Aynı zamanda youtube (wolkann) üzerinden siber güvenlik içerikleri yayınlıyorum.
+Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda İstanbul Ticaret Üniversitesinde Siber Güvenlik öğrencisiyim. Youtube (wolkann) ve İnstagram (wolkansec) üzerinden siber güvenlik içerikleri yayınlıyorum.
 
 **İlgi Alanlarım**:
 - Pentesting
