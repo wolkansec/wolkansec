@@ -3,9 +3,9 @@
 Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda İstanbul Ticaret Üniversitesinde Siber Güvenlik öğrencisiyim. Youtube (wolkansec) ve İnstagram (wolkansec) üzerinden siber güvenlik içerikleri yayınlıyorum.
 
 **İlgi Alanlarım**:
-- Pentesting
-- Web Geliştiriciliği/Güvenliği
-- SOC Analyst
+- SOC
+- SIEM
+- Incident Response
 
 ## Yetenekler:
 
