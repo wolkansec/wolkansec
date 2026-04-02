@@ -16,7 +16,6 @@ Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda İstanbul Ticar
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
 
 
