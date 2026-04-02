@@ -1,12 +1,8 @@
 <div align="center">
   
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Volkan%20Özdemir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Volkan%20Özdemir&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOC%20Analyst%20%7C%20Cybersecurity%20Student&descAlignY=55&descSize=18" width="100%"/>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=🔒+SOC+Analyst+@+Istanbul+Ticaret+University;🛡️+Incident+Response+%7C+Threat+Hunting;⚡+SIEM+%7C+EDR+%7C+Digital+Forensics;🎥+Content+Creator+%40+wolkansec" alt="Typing SVG" />
-  
-  <br><br>
   
   <!-- Social Badges -->
   <a href="https://youtube.com/@wolkansec" target="_blank">
@@ -24,10 +20,7 @@
   
   <br><br>
   
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=wolkansec&color=667eea&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/wolkansec?style=for-the-badge&color=764ba2&labelColor=764ba2&logo=github" alt="Followers"/>
-  
+
 </div>
 
 ---
