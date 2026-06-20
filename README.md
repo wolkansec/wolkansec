@@ -4,8 +4,8 @@ Uzun süredir siber güvenlik alanıyla ilgileniyorum ve şuanda İstanbul Ticar
 
 **İlgi Alanlarım**:
 - SOC
-- SIEM
 - Incident Response
+- Digital Forensic
 - Artificial Intelligence
 
 ## Yetenekler:
