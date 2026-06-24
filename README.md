@@ -1,6 +1,5 @@
-## Hi there! 👋🏻
-I'm <a href="https://dijital.link/wolkan">Volkan</a>, a Cyber Security Student and content creator at [youtube.com/@wolkansec](https://www.youtube.com/@wolkansec). 
-I'm passionate about blue team security, with a focus on SOC analysis, incident response, and digital forensics :lock:. You can see some of my projects that I have started and maintained in my [repositories](https://github.com/wolkansec?tab=repositories). Interested in making security more accessible by creating open-source tools and sharing knowledge. I've also written about various cybersecurity topics, which you can explore on my [Medium](https://medium.com/@wolkansec).<br/>
+## Selamlar! 👋🏻
+Ben Volkan, Siber Güvenlik Öğrencisiyim ve ![youtube.com/@wolkansec](https://youtube.com/@wolkansec) adresinde siber güvenlik içerikler üretiyorum. SOC analizi, olaya müdahale (incident response) ve adli bilişim konularına odaklanarak blue team alanlarına ilgi duymaktayım. Başlattığım ve sürdürdüğüm bazı projelerimi repolarımdan inceleyebilirsiniz. Açık kaynaklı araçlar geliştirmeyi ve öğrendiklerimi paylaşmayı seviyorum. Ayrıca siber güvenliğin ile ilgili yazdığım çeşitli yazılara da ![Medium](https://wolkansec.medium.com/) hesabımdan göz atabilirsiniz.<br/>
 [![LinkedIn](https://img.shields.io/badge/-wolkann-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wolkann/)
 [![YouTube](https://img.shields.io/badge/-wolkansec-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@wolkansec)
 [![Instagram Badge](https://img.shields.io/badge/-wolkansec-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wolkansec/)
