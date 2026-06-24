@@ -1,7 +1,4 @@
 ## Selamlar! 👋🏻
-[![Linkedin](https://img.shields.io/badge/-wolkann-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wolkann/)
-[![YouTube](https://img.shields.io/badge/-wolkansec-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@wolkansec)
-[![Instagram Badge](https://img.shields.io/badge/-wolkansec-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wolkansec/)
 <div align="justify">
 Ben Volkan, Siber Güvenlik Öğrencisiyim ve <a href="https://youtube.com/@wolkansec">youtube.com/@wolkansec</a> adresinde siber güvenlik içerikler üretiyorum. SOC, malware/phishing analizi, olaya müdahale (incident response) ve adli bilişim konularına ilgi duymaktayım. Başlattığım ve sürdürdüğüm bazı projelerimi repolarımdan inceleyebilirsiniz. Açık kaynaklı araçlar geliştirmeyi ve öğrendiklerimi paylaşmayı seviyorum. Ayrıca siber güvenliğin ile ilgili yazdığım çeşitli yazılara da <a href="https://wolkansec.medium.com">Medium</a> hesabımdan göz atabilirsiniz.<br><br></div>
 
