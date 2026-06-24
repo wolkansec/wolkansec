@@ -8,7 +8,7 @@ Ben Volkan, Siber Güvenlik Öğrencisiyim ve <a href="https://youtube.com/@wolk
 - Yazılım ve Programlama: Geliştirme süreçlerinde aktif olarak Python, C, C# ve Bash kullanıyorum.
 - Web Geliştirme: Web teknolojilerinde HTML,CSS,PHP dillerini biliyorum ve ayrıca CMS sistemler üzerinde de deneyimliyim.
 - Teknik İlgi Alanlarım: Yazdığım kodları çoğunlukla siber güvenlik araçları geliştirmek ve çeşitli süreçlerini otomatikleştirmek için kullanıyorum.
-
+<br>
 ## Github İstatistiklerim
 
 ![Volkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolkansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b9bb4)
