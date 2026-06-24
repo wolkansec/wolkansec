@@ -1,5 +1,5 @@
 <div align="center">
-`Volkan ÖZDEMİR`
+<h1>Volkan ÖZDEMİR</h1>
 
 Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
 
