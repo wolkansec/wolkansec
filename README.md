@@ -1,5 +1,5 @@
 <div align="center">
-### `Volkan ÖZDEMİR`
+`Volkan ÖZDEMİR`
 
 Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
 
