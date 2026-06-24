@@ -3,30 +3,16 @@ Ben Volkan, Siber Güvenlik Öğrencisiyim ve [youtube.com/@wolkansec](https://y
 [![Linkedin](https://img.shields.io/badge/-wolkann-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/wolkann/)
 [![YouTube](https://img.shields.io/badge/-wolkansec-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@wolkansec)
 [![Instagram Badge](https://img.shields.io/badge/-wolkansec-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wolkansec/)
-![](https://komarev.com/ghpvc/?username=wolkansec&color=brightgreen&style=flat)
-- 👨‍💻 All of my personal projects are available [here](https://github.com/wolkansec?tab=repositories)
-- 👯 I'm looking to collaborate on open-source security projects
-- 💬 Ask me about SOC analysis, incident response and digital forensics :laughing:
-- 💜 Like Python, Shell Script
-- 😄 Pronouns: He
+
+- Yazılım ve Programlama: Geliştirme süreçlerinde aktif olarak Python, C, C# ve Bash kullanıyorum.
+- Web Geliştirme: Web teknolojilerinde HTML,CSS,PHP dillerini biliyorum ve ayrıca CMS sistemler üzerinde de deneyimliyim.
+- Teknik İlgi Alanlarım: Yazdığım kodları çoğunlukla siber güvenlik araçları geliştirmek ve çeşitli süreçlerini otomatikleştirmek için kullanıyorum.
+
 <br>
-<a href="https://dijital.link/wolkan"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=wolkansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolkansec&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&text_color=000&icon_color=fff&theme=graywhite" /></a>
-<!--START_SECTION:waka-->
-```txt
-No activity tracked
-```
-<!--END_SECTION:waka-->
-<!--
-**wolkansec/wolkansec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- ⚡️ Technologies I work with: Python, PHP, C/C++, HTML, CSS, Shell Script, MySQL and more ....
-- 👯 I'm looking to collaborate on ... Any security project
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![Volkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolkansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b9bb4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolkansec&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b9bb4)
+
+</div>
