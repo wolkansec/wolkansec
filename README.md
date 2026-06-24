@@ -1,4 +1,4 @@
-
+<div align="center">
 ### `Volkan ÖZDEMİR`
 
 Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
