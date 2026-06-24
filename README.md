@@ -1,17 +1,7 @@
-<div align="center">
 
-```
-██╗    ██╗ ██████╗ ██╗     ██╗  ██╗ █████╗ ███╗   ██╗███████╗███████╗ ██████╗
-██║    ██║██╔═══██╗██║     ██║ ██╔╝██╔══██╗████╗  ██║██╔════╝██╔════╝██╔════╝
-██║ █╗ ██║██║   ██║██║     █████╔╝ ███████║██╔██╗ ██║███████╗█████╗  ██║     
-██║███╗██║██║   ██║██║     ██╔═██╗ ██╔══██║██║╚██╗██║╚════██║██╔══╝  ██║     
-╚███╔███╔╝╚██████╔╝███████╗██║  ██╗██║  ██║██║ ╚████║███████║███████╗╚██████╗
- ╚══╝╚══╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝
-```
+### `Volkan ÖZDEMİR`
 
-### `whoami`
-
-**Volkan Özdemir** · Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
+Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
 
 [![YouTube](https://img.shields.io/badge/YouTube-wolkansec-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@wolkansec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wolkann-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wolkann/)
@@ -23,12 +13,11 @@
 
 ---
 
-## 🔍 Hakkımda
+## Hakkımda
 
-Siber güvenlik alanında kendini geliştiren, SOC analistliği ve adli bilişim üzerine yoğunlaşan bir güvenlik meraklısıyım. YouTube ve Instagram'da Türkçe siber güvenlik içerikleri üretiyorum.
+Siber güvenlik alanında kendini geliştiren, SOC analistliği ve adli bilişim üzerine yoğunlaşan bir güvenlik meraklısıyım. Ayrıca YouTube ve Instagram'da türkçe siber güvenlik içerikleri üretmekteyim.
 
 ```bash
-$ cat interests.txt
 [*] SOC Analizi         → Log analizi, SIEM, alert yönetimi
 [*] Incident Response   → Olay tespiti ve müdahale süreçleri
 [*] Digital Forensics   → Dijital iz analizi ve delil toplama
@@ -37,7 +26,7 @@ $ cat interests.txt
 
 ---
 
-## 🛠️ Teknoloji & Araçlar
+## Teknoloji & Araçlar
 
 **Programlama Dilleri**
 
@@ -57,32 +46,12 @@ $ cat interests.txt
 
 ---
 
-## 📌 Öne Çıkan Projeler
-
-| Proje | Açıklama | Dil | ⭐ |
-|-------|----------|-----|-----|
-| [termux-tools](https://github.com/wolkansec/termux-tools) | 354 siber güvenlik aracını tek tuşla indiren Termux scripti | Python | 30 |
-| [analyze-resources](https://github.com/wolkansec/analyze-resources) | Olay müdahale, zararlı yazılım ve tehdit istihbaratı kaynak listesi | — | 3 |
-| [panel-finder](https://github.com/wolkansec/panel-finder) | Hedef sistemin yönetici panelini tespit eden araç | Python | 2 |
-| [phishing-analysis](https://github.com/wolkansec/phishing-analysis) | Phishing analizi için adım adım workflow rehberi | — | 2 |
-| [winfo](https://github.com/wolkansec/winfo) | Aktif bilgi toplama aracı | Python | 1 |
-
----
-
-## 📊 GitHub İstatistikleri
+## GitHub İstatistikleri
 
 <div align="center">
 
 ![Volkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolkansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b9bb4)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolkansec&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=8b9bb4)
-
-</div>
-
----
-
-<div align="center">
-
-*"Security is not a product, it's a process."* — Bruce Schneier
 
 </div>
