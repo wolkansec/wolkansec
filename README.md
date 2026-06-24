@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Volkan ÖZDEMİR</h1>
-
 Siber Güvenlik Öğrencisi @ İstanbul Ticaret Üniversitesi
 
 [![YouTube](https://img.shields.io/badge/YouTube-wolkansec-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@wolkansec)
