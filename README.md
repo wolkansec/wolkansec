@@ -9,5 +9,5 @@ Ben Volkan, Siber Güvenlik Öğrencisiyim ve <a href="https://youtube.com/@wolk
 
 ## 📊 Github İstatistiklerim
 ![Volkan's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wolkansec&hide=contribs,prs&theme=dark&title_color=blue)
-![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wolkansec&theme=dark&title_color=blue&layout=compact)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide_progress=true)
 </div>
