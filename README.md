@@ -9,7 +9,7 @@ Ben Volkan, Siber Güvenlik Öğrencisiyim ve <a href="https://youtube.com/@wolk
 
 ## 📊 Github İstatistiklerim
 
-![Volkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolkansec&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=blue&icon_color=blue&text_color=8b9bb4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolkansec&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=blue&text_color=8b9bb4)
+![Volkan's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wolkansec&show_icons=true&theme=dark&icon_color=blue&title_color=blue)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wolkansec&theme=dark&title_color=blue)
 
 </div>
